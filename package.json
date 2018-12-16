@@ -2,7 +2,7 @@
   "name": "bytetech",
   "version": "2.1.0",
   "description": "-- AWESOMENESS --",
-  "main": "MusicBot.js",
+  "main": "bot.js",
   "scripts": {
     "start": "node bot.js"
   },
